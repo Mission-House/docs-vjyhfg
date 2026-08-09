@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-dp48b6.iglesiamcidonaciones.top/sitemap.xml
